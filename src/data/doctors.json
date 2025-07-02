@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Ayesha Rahman",
+      "image":"https://i.ibb.co.com/1fBZpmsY/female1.jpg",
+      "education": "MBBS, FCPS (Cardiology)",
+      "specialty": "Cardiologist",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1001",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday Tuesday",
+      "consultation": " Taka : 273  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Khaled Mahmud",
+      "image": "https://i.ibb.co.com/cnR26PW/male2.jpg",
+      "education": "MBBS, MD (Neurology)",
+      "specialty": "Neurologist",
+      "experience": "2+ Years Experience",
+      "registration": "REG-1002",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday",
+      "consultation": " Taka : 773  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Nusrat Jahan",
+      "image": "https://i.ibb.co.com/Fq4S7xR8/doctor-sample.png",
+      "education": "MBBS, DGO",
+      "specialty": "Gynecologist",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1003",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday Tuesday",
+      "consultation": " Taka : 573  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Tanvir Ahmed",
+      "image": "https://i.ibb.co.com/5h0Hcx12/male1.jpg",
+      "education": "MBBS, MD (Dermatology)",
+      "specialty": "Dermatologist",
+      "experience": "3+ Years Experience",
+      "registration": "REG-1004",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday Tuesday",
+      "consultation": " Taka : 300  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Farzana Karim",
+      "image": "https://i.ibb.co.com/YBBFQ1kS/female2.jpg",
+      "education": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Pediatrician",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1005",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Saturday Monday Wednesday",
+      "consultation": " Taka : 680  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Shamsul Haque",
+      "image": "https://i.ibb.co.com/TMR3g81k/male5.jpg",
+      "education": "MBBS, MS (Orthopedics)",
+      "specialty": "Orthopedic Surgeon",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1006",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday Tuesday",
+      "consultation": " Taka : 450  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Rehana Sultana",
+      "image": "https://i.ibb.co.com/ks528YM4/female4.jpg",
+      "education": "MBBS, FCPS (Oncology)",
+      "specialty": "Oncologist",
+      "experience": "7+ Years Experience",
+      "registration": "REG-1007",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Saturday Monday Wednesday",
+      "consultation": " Taka : 765  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Azim Hossain",
+      "image": "https://i.ibb.co.com/1tdSRyKt/male4.jpg",
+      "education": "MBBS, MS (Urology)",
+      "specialty": "Urologist",
+      "experience": "4+ Years Experience",
+      "registration": "REG-1008",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday Tuesday",
+      "consultation": " Taka : 346  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Lubna Faria",
+      "image": "https://i.ibb.co.com/0y1DpjHy/female7.jpg",
+      "education": "MBBS, DGO",
+      "specialty": "Obstetrician",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1009",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Monday",
+      "consultation": " Taka : 773  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Saifur Rahman",
+      "image": "https://i.ibb.co.com/N25cKnVD/male6.jpg",
+      "education": "MBBS, MD (Pulmonology)",
+      "specialty": "Pulmonologist",
+      "experience": "2+ Years Experience",
+      "registration": "REG-1010",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Saturday Monday Wednesday",
+      "consultation": " Taka : 573  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 11,
+      "name": "Dr. Mahira Akter",
+      "image": "https://i.ibb.co.com/8DXpbD9b/female8.jpg",
+      "education": "MBBS, FCPS (Rheumatology)",
+      "specialty": "Rheumatologist",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1011",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Sunday Tuesday",
+      "consultation": " Taka : 273  (incl. Vat) Per consultation"
+    },
+    {
+      "id": 12,
+      "name": "Dr. Faisal Khan",
+      "image": "https://i.ibb.co.com/whKyzYLR/male3re.jpg",
+      "education": "MBBS, MD (Nephrology)",
+      "specialty": "Nephrologist",
+      "experience": "5+ Years Experience",
+      "registration": "REG-1012",
+      "institute": "TMSS Medical College & Rafatullah Community Hospital, Bogura",
+      "available": "Saturday Monday Wednesday",
+      "consultation": " Taka : 603  (incl. Vat) Per consultation"
+    }
+  ]
+  
