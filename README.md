@@ -4,4 +4,4 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Live Demo
 
-Check out the live application [here](absent-watch.surge.sh)!
+Check out the live application [here](https://absent-watch.surge.sh)!
